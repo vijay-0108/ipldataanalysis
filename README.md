@@ -29,3 +29,12 @@ The core of this analysis is the `matches.csv` dataset, which contains comprehen
 - **umpire2**: Name of the second umpire  
 
 This dataset provides a rich foundation for exploring various aspects of IPL match dynamics, team strategies, and individual performances.
+
+## 🛠️ Libraries Used
+
+- Python 🐍
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
