@@ -67,7 +67,4 @@ This dataset provides a rich foundation for exploring various aspects of IPL mat
 
 ---
 
-## 🧾 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
