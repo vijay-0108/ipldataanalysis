@@ -1,7 +1,7 @@
 # ipl data analysis
 Historical Data Analysis Of The Indian Premier League
 
-**This repository contains a Jupyter Notebook (ipl.ipynb) dedicated to analyzing Indian Premier League (IPL) match data. The project aims to provide insights into various aspects of IPL matches through data manipulation, exploration, and visualization using Python's pandas, matplotlib, and seaborn libraries within a Google Colab environment.
+** This repository contains a Jupyter Notebook (ipl.ipynb) dedicated to analyzing Indian Premier League (IPL) match data. The project aims to provide insights into various aspects of IPL matches through data manipulation, exploration, and visualization using Python's pandas, matplotlib, and seaborn libraries within a Google Colab environment.
 
 About the Dataset (matches.csv)
 The core of this analysis is the matches.csv dataset, which contains comprehensive information about individual IPL matches. Each row in the dataset represents a unique match and includes the following key columns:
